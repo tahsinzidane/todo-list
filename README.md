@@ -1,7 +1,7 @@
 # todo-list
 list your deily tasks
 
- - [see live]()
+ - [see live](https://tahsinzidane.github.io/todo-list/)
 
  <img src='./public/site preview.png'>
 
