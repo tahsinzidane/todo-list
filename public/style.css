@@ -12,13 +12,8 @@ h1 {
     font-family: "Playwrite ES", cursive;
 }
 
-ul {
-
-    /* color: white; */
-}
-
 ul li {
-    background-color: rgb(32, 133, 227);
+    /* background-color: rgb(32, 133, 227); */
     margin: 10px 10px;
     border-radius: 10px;
     padding: 10px 10px;
